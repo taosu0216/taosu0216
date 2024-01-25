@@ -1,3 +1,7 @@
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=66CCFF&random=false&width=435&lines=Daliy+Growing;Welecome+to+my+profile" alt="Typing SVG" /></a>
+</h1>
+
 # Hi there 👋
 
 <!--
