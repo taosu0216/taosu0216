@@ -1,5 +1,4 @@
-<h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Daliy+Growing!!!;Welecome+to+my+profile!!!;%E4%BB%8A%E5%A4%A9git%E4%BB%A3%E7%A0%81%E4%BA%86%E5%90%97;Sphinx+of+black+quartz%2C+judge+my+vow" alt="Typing SVG" /></a>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Daliy+Growing!!!;Welecome+to+my+profile;%E4%BB%8A%E5%A4%A9%E6%8E%A8%E4%BB%A3%E7%A0%81%E4%BA%86%E5%90%97" alt="Typing SVG" /></a>
 </h1>
 
 # Hi there 👋
