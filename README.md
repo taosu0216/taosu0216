@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 (not real...)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taosu0216)](https://github.com/taosu0216/github-readme-stats)
 # Taosu`s Blog
-https://blog.yblue.top
+https://yblue.top
 # How many people visited
 ![Visitor Count](https://profile-counter.glitch.me/taosu0216/count.svg)
