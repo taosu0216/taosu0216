@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on Supercomputing Center(JiNan)
 - 🌱 I’m currently learning golang/linux/mysql/redis/network
 - 👯 I’m looking to collaborate on docker/kubernets
 - 📫 How to reach me:
@@ -25,6 +26,8 @@ Here are some ideas to get you started:
 # My languages
 (not real...)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taosu0216)](https://github.com/taosu0216/github-readme-stats)
+# My page
+https://page.yblue.top
 # Taosu`s Blog
 https://yblue.top
 # How many people visited
