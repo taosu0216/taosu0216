@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on docker/kubernets
 - 📫 How to reach me:
   -  taosu0216@gmail.com
-  -  2412211487@qq.com
+  -  taosu@yblue.top
 # My languages
 (not real...)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taosu0216)](https://github.com/taosu0216/github-readme-stats)
