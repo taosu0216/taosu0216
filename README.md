@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on Supercomputing Center(JiNan)
-- 🌱 I’m currently learning golang/linux/mysql/redis/network
+- 🔭 I’m currently working on ~~Supercomputing Center(JiNan)~~ 潞晨科技（北京）
+- 🌱 I’m currently learning linux/k8s/network/ai infra
 - 👯 I’m looking to collaborate on docker/kubernets
 - 📫 How to reach me:
   -  taosu0216@gmail.com
