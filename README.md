@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 # My languages
 (not real...)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taosu0216)](https://github.com/taosu0216/github-readme-stats)
-# My page
-https://page.yblue.top
 # Taosu`s Blog
 https://yblue.top
 # How many people visited
