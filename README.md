@@ -8,7 +8,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning linux/k8s/network/ai infra
 - 👯 I’m looking to collaborate on docker/kubernets
+- 🔭 I’m currently working on Jinan Supercomputer Center, Luchen Tech, ByteDacne, and now is the time for entrepreneurship.
 - 📫 How to reach me:
   -  taosu0216@gmail.com
   -  taosu@yblue.top
