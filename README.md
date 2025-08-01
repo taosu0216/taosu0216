@@ -18,6 +18,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# I'm trying to build my own neuro-sama now!
+- go,eino,ent,wails
+- GPT-SoVITS
+- qwen3:14b (Fine-tuning by unsloth)
+
 - 🌱 I’m currently learning linux/k8s/network/ai infra
 - 👯 I’m looking to collaborate on docker/kubernets
 - 🔭 I’m currently working on Jinan Supercomputer Center, Luchen Tech, ByteDacne, and now is the time for entrepreneurship.
