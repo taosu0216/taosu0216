@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Jinan Supercomputer Center, Luchen Tech, ByteDacne, and now is the time for entrepreneurship.
 - 📫 How to reach me:
   -  taosu0216@gmail.com
-  -  taosu@yblue.top
+  -  taosu@mindfold.ai
 # My languages
 (not real...)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taosu0216)](https://github.com/taosu0216/github-readme-stats)
 # Taosu`s Blog
-https://yblue.top
+https://yblue.top (Archived)
 # How many people visited
 ![Visitor Count](https://profile-counter.glitch.me/taosu0216/count.svg)
