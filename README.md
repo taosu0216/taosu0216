@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 📫 How to reach me:
+  -  taosu0216@gmail.com
+  -  taosu@mindfold.ai
 -->
 
 # I'm trying to build my own neuro-sama now!
@@ -26,9 +29,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning linux/k8s/network/ai infra
 - 👯 I’m looking to collaborate on docker/kubernets
 - 🔭 I’m currently working on Jinan Supercomputer Center, Luchen Tech, ByteDacne, and now is the time for entrepreneurship.
-- 📫 How to reach me:
-  -  taosu0216@gmail.com
-  -  taosu@mindfold.ai
+
 # My languages
 (not real...)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taosu0216)](https://github.com/taosu0216/github-readme-stats)
