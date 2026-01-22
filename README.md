@@ -28,5 +28,3 @@ Here are some ideas to get you started:
 
 # My languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taosu0216)](https://github.com/taosu0216/github-readme-stats)
-# How many people visited
-![Visitor Count](https://profile-counter.glitch.me/taosu0216/count.svg)
