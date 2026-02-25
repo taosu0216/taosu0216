@@ -26,5 +26,3 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning linux/k8s/network/ai infra
 - 👯 I’m looking to collaborate on docker/kubernets
 
-# My languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taosu0216)](https://github.com/taosu0216/github-readme-stats)
