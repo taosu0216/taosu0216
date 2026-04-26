@@ -25,4 +25,5 @@ Here are some ideas to get you started:
 # My experience
 - 🌱 I’m currently learning linux/k8s/network/ai infra
 - 👯 I’m looking to collaborate on docker/kubernets
+- work：Jinan，Supercomputing Center  -  LuchenCloud  -  Bytedance  -  mindfold
 
